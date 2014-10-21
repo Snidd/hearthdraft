@@ -1,0 +1,11 @@
+.truePick {
+    color: lawngreen;
+    font-family: verdana;
+    font-size: 26px;
+}
+
+.falsePick {
+    color: red;
+    font-family: verdana;
+    font-size: 26px;
+}
